@@ -3,7 +3,7 @@
 To keep it online, you need to keep the bot process running.
 
 ## Terminology
-* **Main server** (or main guild) is the server where users will be contacting modmail from
+* **Main server** (or main build) is the server where users will be contacting modmail from
 * **Inbox server** (or inbox guild, or mail guild) is the server where modmail threads will be created.
   In a "single-server setup" this is the same server as the main server.
 * A **modmail thread** is a channel on the **inbox server** that contains the current exchange with the **user**.
